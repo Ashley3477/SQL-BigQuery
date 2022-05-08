@@ -1,0 +1,8 @@
+##import python package:
+
+  from google.cloud import bigquery (--->bigquery is dataset)
+
+## Create a "Client" object
+  client = bigquery.Client()
+  
+#
